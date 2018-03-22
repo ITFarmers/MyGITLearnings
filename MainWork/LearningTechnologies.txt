@@ -1,0 +1,15 @@
+Oracle BPM
+Oracle BPEL
+OSB
+Mule ESB
+Oracle ICS
+Oracle PCS
+JAX RS
+JAX-WS
+Core Java
+SQL/PLSQL
+Java Script
+Pythan
+Maven
+Spring
+GIT
